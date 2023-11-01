@@ -38,7 +38,11 @@
         </availability>
       </publicationStmt>
       <notesStmt>
-        <note>An Islamized version of the Oguzname written in verse</note>
+        <note>This variant of the Oguzname was found among the books of Seyyid Ali in Uzunköprü. The
+          manuscript has been lost, but it consisted of 15 leaves, 4 of
+          which included the Oguzname and 11 of which a part of ʿAtabatuʾl-ḥaqāʾiq. The place and
+          date of copying and the name of the copyist are unknown.
+        </note>
       </notesStmt>
       <sourceDesc>
         <msDesc>
@@ -130,8 +134,6 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        This variant of the Oguzname was found among the books of Seyyid Ali in Uzunköprü. The manuscript has been lost, but it consisted of 15 leaves, 4 of
-        which included the Oguzname and 11 of which a part of ʿAtabatuʾl-ḥaqāʾiq. The place and date of copying and the name of the copyist are unknown.
       </creation>
       <langUsage>
         <language ident="zkh">Khwarezmian Turkic</language>
@@ -149,7 +151,9 @@
   </teiHeader>
   <text>
     <body>
-      <p/>
+      <p>
+      An Islamized version of the Oguzname written in verse
+      </p>
     </body>
   </text>
 </TEI>
