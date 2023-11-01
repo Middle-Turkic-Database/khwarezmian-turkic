@@ -144,16 +144,13 @@
         </keywords>
       </textClass>
       <abstract>
-        <p>
-        </p>
+        <p>An Islamized version of the Oguzname written in verse</p>
       </abstract>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <p>
-      An Islamized version of the Oguzname written in verse
-      </p>
+    <p/>
     </body>
   </text>
 </TEI>
