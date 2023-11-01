@@ -44,7 +44,7 @@
                 <div type="textpart" subtype="chapter">
                     <ab>
                         <title></title>
-                        <milestone unit="page" n="1" />
+                        <milestone unit="page" n="1r" />
                         <milestone unit="line" n="1" />
                         <lg type="couplet" n="1" xml:id="ON-001-001">
                             <l>qara ḫān ulusnï tüzätti bilib</l>
@@ -56,9 +56,16 @@
                             <l>nä kim qiṣṣalarnï ayayïn saŋa</l>
                         </lg>
                         <milestone unit="line" n="3" />
-                        <l n="3" xml:id="ON-001-003">
-                        </l>
+                        <lg type="couplet" n="3" xml:id="ON-001-003">
+                            <l></l>
+                            <l></l>
+                        </lg>
                         <milestone unit="line" n="4" />
+                        <lg type="couplet" n="4" xml:id="ON-001-004">
+                            <l></l>
+                            <l></l>
+                        </lg>
+
                     </ab>
                 </div>
             </div>
