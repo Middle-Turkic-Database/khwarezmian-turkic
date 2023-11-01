@@ -7,7 +7,7 @@
       <titleStmt>
         <title ana="#no"/>
         <author ana="#no"/>
-        <editor role="translator"></editor>
+        <editor role="translator" ana="no"></editor>
         <respStmt>
           <resp when="2015">Manuscript description by</resp>
           <name>László Károly</name>
