@@ -7,9 +7,7 @@
       <titleStmt>
         <title ana="#no"/>
         <author ana="#no"/>
-        <editor role="translator"><persName ref="persons.xml#JJMordkowicz"></persName>,
-          <locus></locus>
-        </editor>
+        <editor role="translator"></editor>
         <respStmt>
           <resp when="2015">Manuscript description by</resp>
           <name>László Károly</name>
@@ -40,7 +38,7 @@
         </availability>
       </publicationStmt>
       <notesStmt>
-        <note></note>
+        <note>An Islamized version of the Oguzname written in verse</note>
       </notesStmt>
       <sourceDesc>
         <msDesc>
