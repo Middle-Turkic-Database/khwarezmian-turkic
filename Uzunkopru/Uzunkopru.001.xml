@@ -47,25 +47,531 @@
                         <milestone unit="page" n="1r" />
                         <milestone unit="line" n="1" />
                         <lg type="couplet" n="1" xml:id="ON-001-001">
-                            <l>qara ḫān ulusnï tüzätti bilib</l>
-                            <l>ḫudānï unutub yaman iš qïlïb</l>
+                            <l>qara xān ulusnï tüzätti bilib</l>
+                            <l>xudānï unutub yaman iš qïlïb</l>
                         </lg>
                         <milestone unit="line" n="2" />
                         <lg type="couplet" n="2" xml:id="ON-001-002">
-                            <l>iẕi rūzī qïldï bir oġlan aŋa</l>
-                            <l>nä kim qiṣṣalarnï ayayïn saŋa</l>
+                            <l>iẕi rūzī qïldï bir oɣlan aŋa</l>
+                            <l>nä kim qiṣṣa-larnï ayayïn saŋa</l>
                         </lg>
                         <milestone unit="line" n="3" />
                         <lg type="couplet" n="3" xml:id="ON-001-003">
+                            <l>toɣub üč kün ötti ämüg ämmädi</l>
+                            <l>anasïnïŋ harkiz südi tammadï</l>
+                        </lg>
+                        <milestone unit="line" n="4" />
+                        <lg type="couplet" n="4" xml:id="ON-001-004">
+                            <l>anasï qatïɣ qaẕɣu oɣlï üčün</l>
+                            <l>bärib ämčäk anasï ne qïlsun küčün</l>
+                        </lg>
+                        <milestone unit="line" n="5" />
+                        <lg type="couplet" n="5" xml:id="ON-001-005">
+                            <l>tüšindä körär kim oɣlï aytu<addSpan spanTo="#ON-add001"/>r<anchor xml:id="ON-add001" type="addSpan" /> aŋa</l>
+                            <l>ešitsäŋ anam bir sözüm bar saŋa</l>
+                        </lg>
+                        <milestone unit="line" n="6" />
+                        <lg type="couplet" n="6" xml:id="ON-001-006">
+                            <l>sen ol taŋrïɣa büt īmānɣa ulan</l>
+                            <l>qoy ol bāṭil išni bu yanɣa ulan</l>
+                        </lg>
+                        <milestone unit="line" n="7" />
+                        <lg type="couplet" n="7" xml:id="ON-001-007">
+                            <l>ägär mundaɣ etsäŋ ämär män seni</l>
+                            <l>yoq ärsä ölär män netärsän meni</l>
+                        </lg>
+                        <milestone unit="line" n="8" />
+                        <lg type="couplet" n="8" xml:id="ON-001-008">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="9" />
+                        <lg type="couplet" n="9" xml:id="ON-001-009">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="10" />
+                        <lg type="couplet" n="10" xml:id="ON-001-010">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="11" />
+                        <lg type="couplet" n="11" xml:id="ON-001-011">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="12" />
+                        <lg type="couplet" n="12" xml:id="ON-001-012">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="13" />
+                        <lg type="couplet" n="13" xml:id="ON-001-013">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="page" n="1v" />
+                        <milestone unit="line" n="1" />
+                        <lg type="couplet" n="14" xml:id="ON-002-001">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="2" />
+                        <lg type="couplet" n="15" xml:id="ON-002-002">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="3" />
+                        <lg type="couplet" n="16" xml:id="ON-002-003">
                             <l></l>
                             <l></l>
                         </lg>
                         <milestone unit="line" n="4" />
-                        <lg type="couplet" n="4" xml:id="ON-001-004">
+                        <lg type="couplet" n="17" xml:id="ON-002-004">
                             <l></l>
                             <l></l>
                         </lg>
-
+                        <milestone unit="line" n="5" />
+                        <lg type="couplet" n="18" xml:id="ON-002-005">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="6" />
+                        <lg type="couplet" n="19" xml:id="ON-002-006">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="7" />
+                        <lg type="couplet" n="20" xml:id="ON-002-007">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="8" />
+                        <lg type="couplet" n="21" xml:id="ON-002-008">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="9" />
+                        <lg type="couplet" n="22" xml:id="ON-002-009">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="10" />
+                        <lg type="couplet" n="23" xml:id="ON-002-010">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="11" />
+                        <lg type="couplet" n="24" xml:id="ON-002-011">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="12" />
+                        <lg type="couplet" n="25" xml:id="ON-002-012">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="13" />
+                        <lg type="couplet" n="26" xml:id="ON-002-013">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="page" n="2r" />
+                        <milestone unit="line" n="1" />
+                        <lg type="couplet" n="27" xml:id="ON-003-001">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="2" />
+                        <lg type="couplet" n="28" xml:id="ON-003-002">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="3" />
+                        <lg type="couplet" n="29" xml:id="ON-003-003">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="4" />
+                        <lg type="couplet" n="30" xml:id="ON-003-004">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="5" />
+                        <lg type="couplet" n="31" xml:id="ON-003-005">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="6" />
+                        <lg type="couplet" n="32" xml:id="ON-003-006">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="7" />
+                        <lg type="couplet" n="33" xml:id="ON-003-007">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="8" />
+                        <lg type="couplet" n="34" xml:id="ON-003-008">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="9" />
+                        <lg type="couplet" n="35" xml:id="ON-003-009">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="10" />
+                        <lg type="couplet" n="36" xml:id="ON-003-010">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="11" />
+                        <lg type="couplet" n="37" xml:id="ON-003-011">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="12" />
+                        <lg type="couplet" n="38" xml:id="ON-003-012">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="13" />
+                        <lg type="couplet" n="39" xml:id="ON-003-013">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="page" n="2v" />
+                        <milestone unit="line" n="1" />
+                        <lg type="couplet" n="40" xml:id="ON-004-001">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="2" />
+                        <lg type="couplet" n="41" xml:id="ON-004-002">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="3" />
+                        <lg type="couplet" n="42" xml:id="ON-004-003">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="4" />
+                        <lg type="couplet" n="43" xml:id="ON-004-004">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="5" />
+                        <lg type="couplet" n="44" xml:id="ON-004-005">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="6" />
+                        <lg type="couplet" n="45" xml:id="ON-004-006">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="7" />
+                        <lg type="couplet" n="46" xml:id="ON-004-007">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="8" />
+                        <lg type="couplet" n="47" xml:id="ON-004-008">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="9" />
+                        <lg type="couplet" n="48" xml:id="ON-004-009">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="10" />
+                        <lg type="couplet" n="49" xml:id="ON-004-010">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="11" />
+                        <lg type="couplet" n="50" xml:id="ON-004-011">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="12" />
+                        <lg type="couplet" n="51" xml:id="ON-004-012">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="13" />
+                        <lg type="couplet" n="52" xml:id="ON-004-013">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="page" n="3r" />
+                        <milestone unit="line" n="1" />
+                        <lg type="couplet" n="53" xml:id="ON-005-001">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="2" />
+                        <lg type="couplet" n="54" xml:id="ON-005-002">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="3" />
+                        <lg type="couplet" n="55" xml:id="ON-005-003">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="4" />
+                        <lg type="couplet" n="56" xml:id="ON-005-004">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="5" />
+                        <lg type="couplet" n="57" xml:id="ON-005-005">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="6" />
+                        <lg type="couplet" n="58" xml:id="ON-005-006">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="7" />
+                        <lg type="couplet" n="59" xml:id="ON-005-007">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="8" />
+                        <lg type="couplet" n="60" xml:id="ON-005-008">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="9" />
+                        <lg type="couplet" n="61" xml:id="ON-005-009">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="10" />
+                        <lg type="couplet" n="62" xml:id="ON-005-010">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="11" />
+                        <lg type="couplet" n="63" xml:id="ON-005-011">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="12" />
+                        <lg type="couplet" n="64" xml:id="ON-005-012">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="13" />
+                        <lg type="couplet" n="65" xml:id="ON-005-013">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="page" n="3v" />
+                        <milestone unit="line" n="1" />
+                        <lg type="couplet" n="66" xml:id="ON-006-001">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="2" />
+                        <lg type="couplet" n="67" xml:id="ON-006-002">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="3" />
+                        <lg type="couplet" n="68" xml:id="ON-006-003">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="4" />
+                        <lg type="couplet" n="69" xml:id="ON-006-004">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="5" />
+                        <lg type="couplet" n="70" xml:id="ON-006-005">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="6" />
+                        <lg type="couplet" n="71" xml:id="ON-006-006">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="7" />
+                        <lg type="couplet" n="72" xml:id="ON-006-007">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="8" />
+                        <lg type="couplet" n="73" xml:id="ON-006-008">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="9" />
+                        <lg type="couplet" n="74" xml:id="ON-006-009">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="10" />
+                        <lg type="couplet" n="75" xml:id="ON-006-010">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="11" />
+                        <lg type="couplet" n="76" xml:id="ON-006-011">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="12" />
+                        <lg type="couplet" n="77" xml:id="ON-006-012">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="13" />
+                        <lg type="couplet" n="78" xml:id="ON-006-013">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="page" n="4r" />
+                        <milestone unit="line" n="1" />
+                        <lg type="couplet" n="79" xml:id="ON-007-001">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="2" />
+                        <lg type="couplet" n="80" xml:id="ON-007-002">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="3" />
+                        <lg type="couplet" n="81" xml:id="ON-007-003">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="4" />
+                        <lg type="couplet" n="82" xml:id="ON-007-004">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="5" />
+                        <lg type="couplet" n="83" xml:id="ON-007-005">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="6" />
+                        <lg type="couplet" n="84" xml:id="ON-007-006">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="7" />
+                        <lg type="couplet" n="85" xml:id="ON-007-007">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="8" />
+                        <lg type="couplet" n="86" xml:id="ON-007-008">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="9" />
+                        <lg type="couplet" n="87" xml:id="ON-007-009">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="10" />
+                        <lg type="couplet" n="88" xml:id="ON-007-010">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="11" />
+                        <lg type="couplet" n="89" xml:id="ON-007-011">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="12" />
+                        <lg type="couplet" n="90" xml:id="ON-007-012">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="13" />
+                        <lg type="couplet" n="91" xml:id="ON-007-013">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="page" n="4v" />
+                        <milestone unit="line" n="1" />
+                        <lg type="couplet" n="92" xml:id="ON-008-001">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="2" />
+                        <lg type="couplet" n="93" xml:id="ON-008-002">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="3" />
+                        <lg type="couplet" n="94" xml:id="ON-008-003">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="4" />
+                        <lg type="couplet" n="95" xml:id="ON-008-004">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="5" />
+                        <lg type="couplet" n="96" xml:id="ON-008-005">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="6" />
+                        <lg type="couplet" n="97" xml:id="ON-008-006">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="7" />
+                        <lg type="couplet" n="98" xml:id="ON-008-007">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="8" />
+                        <lg type="couplet" n="99" xml:id="ON-008-008">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="9" />
+                        <lg type="couplet" n="100" xml:id="ON-008-009">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="10" />
+                        <lg type="couplet" n="101" xml:id="ON-008-010">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="11" />
+                        <lg type="couplet" n="102" xml:id="ON-008-011">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="12" />
+                        <lg type="couplet" n="103" xml:id="ON-008-012">
+                            <l></l>
+                            <l></l>
+                        </lg>
+                        <milestone unit="line" n="13" />
+                        <lg type="couplet" n="104" xml:id="ON-008-013">
+                            <l></l>
+                            <l></l>
+                        </lg>
                     </ab>
                 </div>
             </div>
