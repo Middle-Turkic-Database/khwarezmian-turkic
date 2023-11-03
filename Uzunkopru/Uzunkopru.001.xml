@@ -128,53 +128,56 @@
                         </lg>
                         <milestone unit="line" n="4" />
                         <lg type="couplet" n="17" xml:id="ON-002-004">
-                            <l></l>
-                            <l></l>
+                            <l>ešitkän bu sözni barï taŋladï</l>
+                            <l>oɣuznuŋ iši-ni qamuɣ aŋladï</l>
                         </lg>
                         <milestone unit="line" n="5" />
                         <lg type="couplet" n="18" xml:id="ON-002-005">
-                            <l></l>
-                            <l></l>
+                            <l>yüz kö<addSpan spanTo="#ON-add002" />r<anchor xml:id="ON-add002"
+                                    type="addSpan" />klük ärdi qïlïqï sïlïɣ</l>
+                            <l>köŋüli mihirlig sözi ḫūb yïlïɣ</l>
                         </lg>
                         <milestone unit="line" n="6" />
                         <lg type="couplet" n="19" xml:id="ON-002-006">
-                            <l></l>
-                            <l></l>
+                            <l>atïm-čï bahādur yüräklig özi</l>
+                            <l>uyatlïɣ musulmān čïnoq-tur sözi</l>
                         </lg>
                         <milestone unit="line" n="7" />
                         <lg type="couplet" n="20" xml:id="ON-002-007">
-                            <l></l>
-                            <l></l>
+                            <l>bu iš birlä avɣa mudām aṭlanur</l>
+                            <l>kim öz dīni ičrä qatïɣ qatlanur</l>
                         </lg>
                         <milestone unit="line" n="8" />
                         <lg type="couplet" n="21" xml:id="ON-002-008">
-                            <l></l>
-                            <l></l>
+                            <l>atasï qara ḫān oɣuznuŋ üčün</l>
+                            <l>inisi qïzïnï köčürdi küčün</l>
                         </lg>
                         <milestone unit="line" n="9" />
                         <lg type="couplet" n="22" xml:id="ON-002-009">
-                            <l></l>
-                            <l></l>
+                            <l>uluɣ toylar itti ulus toyladï</l>
+                            <l>oɣuz öz ḫātūnï bilä toyladï</l>
                         </lg>
                         <milestone unit="line" n="10" />
                         <lg type="couplet" n="23" xml:id="ON-002-010">
-                            <l></l>
-                            <l></l>
+                            <l>alur ǰüftigä kim meni sen tesäŋ</l>
+                            <l>sävär män seni ḫōš musulmān e<addSpan spanTo="#ON-add003" />r<anchor
+                                    xml:id="ON-add003" type="addSpan" />säŋ</l>
                         </lg>
                         <milestone unit="line" n="11" />
                         <lg type="couplet" n="24" xml:id="ON-002-011">
-                            <l></l>
-                            <l></l>
+                            <l>ḫātūnï bu sözni qabūl qïlmadï</l>
+                            <l>oɣuz ham anï közi-gä anï ïlmadï</l>
                         </lg>
                         <milestone unit="line" n="12" />
                         <lg type="couplet" n="25" xml:id="ON-002-012">
-                            <l></l>
-                            <l></l>
+                            <l>sälländü<addSpan spanTo="#ON-add004" />r<anchor
+                                    xml:id="ON-add004" type="addSpan" /> ḫātūn täk ävindä turur</l>
+                            <l>oɣuz kirsä čïqsa anï köp urur</l>
                         </lg>
                         <milestone unit="line" n="13" />
                         <lg type="couplet" n="26" xml:id="ON-002-013">
-                            <l></l>
-                            <l></l>
+                            <l>atasï qara ḫān körüp bildi čïn</l>
+                            <l>inisi qïzïɣa oɣuz qïldï qïn</l>
                         </lg>
                         <milestone unit="page" n="2r" />
                         <milestone unit="line" n="1" />
