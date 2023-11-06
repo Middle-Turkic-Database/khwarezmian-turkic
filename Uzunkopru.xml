@@ -37,8 +37,8 @@
         </availability>
       </publicationStmt>
       <notesStmt>
-        <note>The manuscript has been lost, but it consisted of 15 leaves, 4 of
-          which included the Oguzname and 11 of which a part of ʿAtabatuʾl-ḥaqāʾiq. The place and
+        <note>Originally part of a collection of works that has been lost. The broken manuscript consisted of 15 leaves, 4 of
+          which included the Oguzname and 11 of which parts of ʿAtabatuʾl-ḥaqāʾiq. The place and
           date of copying and the name of the copyist are unknown.
         </note>
       </notesStmt>
@@ -47,11 +47,11 @@
           <msIdentifier>
             <settlement>Unknown</settlement>
             <repository>Unknown</repository>
-            <idno>XXX</idno>
+            <idno>Uzunköprü</idno>
           </msIdentifier>
           <msContents>
             <summary>
-              An Islamized version of the Oguzname written in verse. 
+              An Islamized version of the Oguzname written in prose.
             </summary>
             <msItem n="1">
               <locus>folios 1r-4v</locus>
@@ -120,7 +120,8 @@
               <bibl>Eraslan, Kemal. 1976. Manzum Oğuznâme. <emph>Türkiyat Mecmuası</emph> 18: 169–244.</bibl>
               <bibl>Eraslan, Kemal. 1977. «Manzum Oğuznâme» ile İlgili İki Not. <emph>Türkiyat Mecmuası</emph> 19: 345–346.</bibl>
               <bibl>Ercilasun, Ahmet B. 2019. <emph>Nehir Destan Oğuzname (Oguz Bitig).</emph> İstanbul: Dergâh Yayınları.</bibl>
-              <bibl>Orkun, Hüseyin N. 1935. <emph>Oğuzlara Dair.</emph> Ankara: Ulus Basımevi.</bibl>
+              <bibl>Orkun, Hüseyin N. 1935a. <emph>Oğuzlara Dair.</emph> Ankara: Ulus Basımevi.</bibl>
+              <bibl>Orkun, Hüseyin N. 1935b. Bir Oğuz Efsanesi. <emph>Ülkü (Halkevleri Dergisi)</emph> 6: 267–275.</bibl>
               </listBibl>
           </additional>
         </msDesc>
@@ -139,7 +140,7 @@
         </keywords>
       </textClass>
       <abstract>
-        <p>An Islamized version of the Oguzname written in verse (couplets)</p>
+        <p>An Islamized version of the Oguzname written in prose (couplets)</p>
       </abstract>
     </profileDesc>
   </teiHeader>
