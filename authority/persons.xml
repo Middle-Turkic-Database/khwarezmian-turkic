@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Personography</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Uppsala University, Department of linguistics and philology</publisher>
+                <pubPlace>Uppsala, Sweden</pubPlace>
+                <date>2020</date>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"> Creative Commons
+                        Attribution 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p />
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="SeyyidAliofUzunköprü">
+                        <persName>
+                            <forename>Seyyid Ali</forename>
+                            <surname></surname>
+                        </persName>
+                        <birth></birth>
+                        <death></death>
+                    </person>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p />
+        </body>
+    </text>
+</TEI>
