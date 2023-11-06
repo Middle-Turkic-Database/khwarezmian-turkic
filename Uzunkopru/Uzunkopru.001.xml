@@ -73,12 +73,12 @@
                         <milestone unit="line" n="6" />
                         <lg type="couplet" n="6" xml:id="ONUk-001-006">
                             <l>sen ol taŋrïɣa büt īmānɣa ulan</l>
-                            <l>qoy ol bāṭil išni bu yanɣa ulan</l>
+                            <l>qoy ol bāṭil išni bu yanɣa ulan</l>
                         </lg>
                         <milestone unit="line" n="7" />
                         <lg type="couplet" n="7" xml:id="ONUk-001-007">
-                            <l>ägär mundaɣ etsäŋ ämär män seni</l>
-                            <l>yoq ärsä ölär män netärsän meni</l>
+                            <l>ägär mundaɣ etsäŋ ämär män seni</l>
+                            <l>yoq ärsä ölär män netärsän meni</l>
                         </lg>
                         <milestone unit="line" n="8" />
                         <lg type="couplet" n="8" xml:id="ONUk-001-008">
@@ -140,11 +140,11 @@
                         <milestone unit="line" n="6" />
                         <lg type="couplet" n="19" xml:id="ONUk-002-006">
                             <l>atïm-čï bahādur yüräklig özi</l>
-                            <l>uyatlïɣ musulmān čïnoq-tur sözi</l>
+                            <l>uyatlïɣ musulmān čïnoq-tur sözi</l>
                         </lg>
                         <milestone unit="line" n="7" />
                         <lg type="couplet" n="20" xml:id="ONUk-002-007">
-                            <l>bu iš birlä avɣa mudām aṭlanur</l>
+                            <l>bu iš birlä avɣa mudām aṭlanur</l>
                             <l>kim öz dīni ičrä qatïɣ qatlanur</l>
                         </lg>
                         <milestone unit="line" n="8" />
@@ -160,7 +160,7 @@
                         <milestone unit="line" n="10" />
                         <lg type="couplet" n="23" xml:id="ONUk-002-010">
                             <l>alur ǰüftigä kim meni sen tesäŋ</l>
-                            <l>sävär män seni ḫōš musulmān e<addSpan spanTo="#ONUk-add003" />r<anchor
+                            <l>sävär män seni ḫōš musulmān e<addSpan spanTo="#ONUk-add003" />r<anchor
                                     xml:id="ONUk-add003" type="addSpan" />säŋ</l>
                         </lg>
                         <milestone unit="line" n="11" />
@@ -194,7 +194,7 @@
                         <milestone unit="line" n="3" />
                         <lg type="couplet" n="29" xml:id="ONUk-003-003">
                             <l>ayur bir iẕiɣa čïnoq bütä sän</l>
-                            <l>säväyin seni ḫōš ǰānïm birlä män</l>
+                            <l>säväyin seni ḫōš ǰānïm birlä män</l>
                         </lg>
                         <milestone unit="line" n="4" />
                         <lg type="couplet" n="30" xml:id="ONUk-003-004">
@@ -249,68 +249,69 @@
                         <milestone unit="page" n="2v" />
                         <milestone unit="line" n="1" />
                         <lg type="couplet" n="40" xml:id="ONUk-004-001">
-                            <l></l>
-                            <l></l>
+                            <l>ayttï sen ämdi mäniŋ sen özüŋ</l>
+                            <l>ayayïn saŋa män biläyin sözüŋ</l>
                         </lg>
                         <milestone unit="line" n="2" />
                         <lg type="couplet" n="41" xml:id="ONUk-004-002">
-                            <l></l>
-                            <l></l>
+                            <l>agar bir tep anï bütär ärsä sän</l>
+                            <l>yanut yaḫšïlïq-lar öküš qïlɣa män</l>
                         </lg>
                         <milestone unit="line" n="3" />
                         <lg type="couplet" n="42" xml:id="ONUk-004-003">
-                            <l></l>
-                            <l></l>
+                            <l>bu sözni äšitti qïz aytur ravān</l>
+                            <l>sen ayɣan-nï aytay turup män hamān</l>
                         </lg>
                         <milestone unit="line" n="4" />
                         <lg type="couplet" n="43" xml:id="ONUk-004-004">
-                            <l></l>
-                            <l></l>
+                            <l>ne aysaŋ ayayïm ayt aytayïn</l>
+                            <l>bu širk va nifāqdïn čïnoq qaytayïn</l>
                         </lg>
                         <milestone unit="line" n="5" />
                         <lg type="couplet" n="44" xml:id="ONUk-004-005">
-                            <l></l>
-                            <l></l>
+                            <l>ošal täŋri birdür bütär män aŋa</l>
+                            <l>yana ne demäkni ayu ber maŋa</l>
                         </lg>
                         <milestone unit="line" n="6" />
                         <lg type="couplet" n="45" xml:id="ONUk-004-006">
-                            <l></l>
-                            <l></l>
+                            <l>munuŋ täg tedi qïz īmān kältürüb</l>
+                            <l>oɣuz sävdi qïznï sözigä bütüb</l>
                         </lg>
                         <milestone unit="line" n="7" />
                         <lg type="couplet" n="46" xml:id="ONUk-004-007">
-                            <l></l>
-                            <l></l>
+                            <l>nečä yïl munuŋ täg tirig-lik qïlur</l>
+                            <l>kim ol täŋrisini tanïr ham bilür</l>
                         </lg>
                         <milestone unit="line" n="8" />
                         <lg type="couplet" n="47" xml:id="ONUk-004-008">
-                            <l></l>
-                            <l></l>
+                            <l>oš andïn soŋ avġa mudām aṭlanur</l>
+                            <l>nökärläri birlä yürip quš salur<ref n="1" target="#ONUk-fn1"
+                                    type="noteAnchor" /></l>
                         </lg>
                         <milestone unit="line" n="9" />
                         <lg type="couplet" n="48" xml:id="ONUk-004-009">
-                            <l></l>
-                            <l></l>
+                            <l>qara ḫān ävindä yarašturdï toy</l>
+                            <l>öküš qïsraq öldi saqïš-sïz bu qoy</l>
                         </lg>
                         <milestone unit="line" n="10" />
                         <lg type="couplet" n="49" xml:id="ONUk-004-010">
-                            <l></l>
-                            <l></l>
+                            <l>kälin-lärni ävgä kätürdi berib</l>
+                            <l>yana yaḫšï-lïq-nïŋ uruɣïn terib</l>
                         </lg>
                         <milestone unit="line" n="11" />
                         <lg type="couplet" n="50" xml:id="ONUk-004-011">
-                            <l></l>
-                            <l></l>
+                            <l>aɣïrladï toyda bularnï tälim</l>
+                            <l>özi qïlqï körklüg salīm dil-ḥalīm</l>
                         </lg>
                         <milestone unit="line" n="12" />
                         <lg type="couplet" n="51" xml:id="ONUk-004-012">
-                            <l></l>
-                            <l></l>
+                            <l>kälin-lärgä aydï silärgä mäniŋ</l>
+                            <l>sözüm bar ayayïn silär ham biliŋ</l>
                         </lg>
                         <milestone unit="line" n="13" />
                         <lg type="couplet" n="52" xml:id="ONUk-004-013">
-                            <l></l>
-                            <l></l>
+                            <l>siz eki kälin-niŋ yüzi körklüg üz</l>
+                            <l>biriŋiz qabīh-raq yoq ol yüzdä uz</l>
                         </lg>
                         <milestone unit="page" n="3r" />
                         <milestone unit="line" n="1" />
@@ -582,7 +583,7 @@
             <div type="apparatus">
                 <listApp>
                     <app>
-                        <note xml:id="ONUk-fn1" type="footnote">ADD YOUR COMMENT HERE</note>
+                        <note xml:id="ONUk-fn1" type="footnote">Originally <emph>salïb</emph> is written. The final segment <emph>lïb</emph> is crossed out and corrected to <emph>lur</emph>.</note>
                     </app>
                 </listApp>
             </div>
