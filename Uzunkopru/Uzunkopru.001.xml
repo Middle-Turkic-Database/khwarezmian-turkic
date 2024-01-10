@@ -44,7 +44,7 @@
                 <div type="textpart" subtype="chapter">
                     <ab>
                         <title></title>
-                        <milestone unit="page" n="1r" />
+                        <milestone unit="page" n="1r" facs="ONUk.1r.jpg" />
                         <milestone unit="line" n="1" />
                         <lg type="couplet" n="1" xml:id="ONUk-001-001">
                             <l>qara ḫān ulusnï tüzätti bilib</l>
@@ -110,7 +110,7 @@
                             <l>ayur bir kün ärtä oɣul atïnï</l>
                             <l>demädük tiyäliŋ munuŋ ẕātïnï</l>
                         </lg>
-                        <milestone unit="page" n="1v" />
+                        <milestone unit="page" n="1v" facs="ONUk.1v.jpg" />
                         <milestone unit="line" n="1" />
                         <lg type="couplet" n="14" xml:id="ONUk-002-001">
                             <l>mäšvärät qïlalïŋ öziŋä burun</l>
@@ -179,7 +179,7 @@
                             <l>atasï qara ḫān körüp bildi čïn</l>
                             <l>inisi qïzïɣa oɣuz qïldï qïn</l>
                         </lg>
-                        <milestone unit="page" n="2r" />
+                        <milestone unit="page" n="2r" facs="ONUk.2r.jpg" />
                         <milestone unit="line" n="1" />
                         <lg type="couplet" n="27" xml:id="ONUk-003-001">
                             <l>yana bir inisi bu kür ḫā<addSpan spanTo="#ONUk-add005" />n<anchor
@@ -246,7 +246,7 @@
                             <l>oɣuz bir kün avdïn kälürdä körär</l>
                             <l>ataɣlïqï qïznï tanïr ham sorar</l>
                         </lg>
-                        <milestone unit="page" n="2v" />
+                        <milestone unit="page" n="2v" facs="ONUk.2v.jpg" />
                         <milestone unit="line" n="1" />
                         <lg type="couplet" n="40" xml:id="ONUk-004-001">
                             <l>ayttï sen ämdi mäniŋ sen özüŋ</l>
@@ -313,7 +313,7 @@
                             <l>siz eki kälin-niŋ yüzi körklüg üz</l>
                             <l>biriŋiz qabīh-raq yoq ol yüzdä uz</l>
                         </lg>
-                        <milestone unit="page" n="3r" />
+                        <milestone unit="page" n="3r" facs="ONUk.3r.jpg" />
                         <milestone unit="line" n="1" />
                         <lg type="couplet" n="53" xml:id="ONUk-005-001">
                             <l></l>
@@ -379,7 +379,7 @@
                             <l></l>
                             <l></l>
                         </lg>
-                        <milestone unit="page" n="3v" />
+                        <milestone unit="page" n="3v" facs="ONUk.3v.jpg" />
                         <milestone unit="line" n="1" />
                         <lg type="couplet" n="66" xml:id="ONUk-006-001">
                             <l></l>
@@ -445,7 +445,7 @@
                             <l></l>
                             <l></l>
                         </lg>
-                        <milestone unit="page" n="4r" />
+                        <milestone unit="page" n="4r" facs="ONUk.4r.jpg" />
                         <milestone unit="line" n="1" />
                         <lg type="couplet" n="79" xml:id="ONUk-007-001">
                             <l></l>
@@ -511,7 +511,7 @@
                             <l></l>
                             <l></l>
                         </lg>
-                        <milestone unit="page" n="4v" />
+                        <milestone unit="page" n="4v" facs="ONUk.4v.jpg" />
                         <milestone unit="line" n="1" />
                         <lg type="couplet" n="92" xml:id="ONUk-008-001">
                             <l></l>
