@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title ana="#no"/>
+        <author ana="#no"/>
+        <respStmt>
+          <resp when="2015">Manuscript description by</resp>
+          <name>Samet Onur</name>
+        </respStmt>
+        <respStmt>
+          <resp when="2020">Digital edition by</resp>
+          <name>Samet Onur</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          Onur, Samet 2024. ‘A digital edition of the Khwarezmian Turkic fortune-telling book K1057’, in László Károly and
+          Michał Németh (eds)
+          <emph>A database of Middle Turkic documents.</emph>
+          Uppsala: Department of linguistics and philology. Accessed
+          <date when-custom="Now-DayinMonth"/>
+          <date when-custom="Now-MonthAbbr"/>
+          <date when-custom="Now-Year"/>.
+          <ref target="currentPageURL"/>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Uppsala University, Department of linguistics and philology</publisher>
+        <pubPlace>Uppsala, Sweden</pubPlace>
+        <date>2024</date>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Creative Commons Attribution 4.0 International</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>The manuscript consisted of 129 folios, 71 of which includes the Siraj al-Qulub in
+          Khwarezmian Turkic (Yaman 2016) and 58 of which includes the Falnama in Khwarezmian
+          Turkic (Onur 2022). The place of copying and the name of the copyist are unknown. The last
+          pages are missing, so we don’t know when the Falnama was copied. However, it is
+          understood that both the Siraj al-Qulub and the Falnamah were written by the same copyist. The
+          copying date of the Siraj al-Qulub is 1362. It is therefore possible to say that the
+          Falnama was also copied around 1362. The linguistic differences between the two texts
+          show that these two texts, written by the same copyist, were not composed by the same
+          author (or translator).
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Istanbul, Türkiye</settlement>
+            <repository>Topkapı Palace Museum Library</repository>
+            <idno>K1057</idno>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              A fortune-telling book in Khwarezmian Turkic.
+            </summary>
+            <msItem n="1">
+              <locus>folios 71v-129r</locus>
+              <title ana="#no"/>
+              <author ana="#no"/>
+              <textLang>Khwarezmian Turkic</textLang>
+            </msItem>
+            <msItemStruct>
+              <title n="1" type="chapter">
+                <abbr>Falnama</abbr>
+                Falnama
+              </title>
+            </msItemStruct>
+          </msContents>
+          <physDesc>
+            <objectDesc form="codex">
+              <supportDesc material="paper">
+                <support>
+                  <objectType>Codex</objectType>
+                  <material>Cream-coloured muqahar paper</material>
+                  <watermark ana="#no"/>
+                </support>
+                <extent>058
+                  <dimensions scope="all" type="leaf" unit="mm">
+                    <height>210</height>
+                    <width>140</width>
+                  </dimensions>
+                </extent>
+                <foliation ana="#no"/>
+                <collation>
+                  <catchwords>Catchwords on each folio verso (with a few exceptions)</catchwords>
+                </collation>
+                <condition>The manuscript is in good condition.</condition>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1" writtenLines="15">
+                  <p>15 lines per page (with a few exceptions)</p>
+                  <dimensions scope="sole" type="written" unit="mm">
+                    <height>160</height>
+                    <width>95</width>
+                  </dimensions>
+                </layout>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote medium="ink">Ink:
+                <term type="ink">black (red for titles)</term>
+              </handNote>
+              <handNote scope="sole" script="Naskh" />
+            </handDesc>
+            <scriptDesc>
+              <scriptNote scope="sole">Arabic (no vocalisation)</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding contemporary="false">
+                <p>Sewn binding</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate>Around 1362</origDate>
+              <origPlace>Unknown</origPlace>
+            </origin>
+            <provenance>
+              In some folios of the manuscript there are marginal notes about people whose fortunes
+              were told. One of them is Mevlana Sinan, an Ottoman poet with the pseudonym Şeyhî, and
+              another is Oruc Bey, the Beylerbey of Anatolia, and his successor Hamza Bey (Kandemir
+              1961: VI; Onur 2020: 101). These marginal notes indicate that the manuscript was used
+              for fortune-telling in the Edirne Palace during the reign of Murad II, i.e. in the
+              first half of the 15th century.
+            </provenance>
+          </history>
+          <additional>
+            <listBibl>
+              <bibl>Kandemir, Yıldız. 1961. <emph>Kitabı - Dil Hususiyetleri Üzerinde Bir Çalışma.</emph> Undergraduate Thesis. Istanbul: Istanbul University.</bibl>
+              <bibl>Onur, Samet. 2020. Harezm Türkçesiyle Yazılmış Bir Fal Kitabı. <emph>Modern Türklük
+                Araştırmaları Dergisi</emph> 17(1): 96–119.</bibl>
+              <bibl>Onur, Samet. 2022. <emph>Harezm Türkçesi Fal Kitabı (Yıldızname - Dîvname - Kur’an falı -
+                Kura falı - Tılsımlar).</emph> Ankara: Akçağ Yayınları.</bibl>
+              <bibl>Yaman, Ümran. 2016. Doğu Türkçesi ile Yazılan Sirâcü’l-Kulûb’un Dili Üzerine. <emph>İstanbul
+                  Üniversitesi Edebiyat Fakültesi Türk Dili ve Edebiyatı Dergisi</emph>
+                55(1): 91–102.</bibl>
+              </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>The language of the text represents Early Eastern Middle Turkic of the 13th to <date>14th
+        century</date>, known as Khwarezmian Turkic. However, some linguistic features of the text
+        (mostly lexical), which are close to Western Turkic, set it apart from all the other
+        Khwarezmian Turkic sources. These features indicate that the work was probably composed by
+        an Oguz in <origPlace>Western Turkestan</origPlace>. In particular, the fact that the text contains many words
+        peculiar to Old Anatolian Turkish, which do not appear in any Khwarezmian Turkic source,
+        suggests that it was written by a member of an Oguz tribe who had not participated in the
+        migrations to Anatolia.
+      </creation>
+      <langUsage>
+        <language ident="zkh">Khwarezmian Turkic</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="http://id.loc.gov/authorities/subjects">
+          <term>Khorezmian Turkic language, Fortune-telling</term>
+        </keywords>
+      </textClass>
+      <abstract>
+        <p>The earliest known falnama of the Turkic-Islamic literature</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+    <p/>
+    </body>
+  </text>
+</TEI>
