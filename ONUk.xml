@@ -87,7 +87,7 @@
                 <condition>The manuscript has been lost. The text is reconstructable on the basis of Orkun (1935) and Eraslan (1976).</condition>
               </supportDesc>
               <layoutDesc>
-                <layout columns="1" writtenLines="21 22">
+                <layout columns="2" writtenLines="13">
                   <p>Written in two columns (by couplets) with 13 lines per page</p>
                   <dimensions scope="sole" type="written" unit="mm">
                     <height>133</height>
@@ -136,7 +136,7 @@
       </langUsage>
       <textClass>
         <keywords scheme="http://id.loc.gov/authorities/subjects">
-          <term>Oguz (Turkic people), Epic poetry</term>
+          <term>Khorezmian Turkic language, Oguz (Turkic people), Epic poetry</term>
         </keywords>
       </textClass>
       <abstract>
