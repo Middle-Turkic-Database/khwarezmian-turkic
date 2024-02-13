@@ -67,7 +67,7 @@
                         </lg>
                         <milestone unit="line" n="5" />
                         <lg type="couplet" n="5" xml:id="ONUk-001-005">
-                            <l>tüšindä körär kim oġlï aytu<addSpan spanTo="#ONUk-add001"/>r<anchor xml:id="ONUk-add001" type="addSpan" /> aŋa</l>
+                            <l>tüšindä körär kim oġlï aytu<supplied reason="lost">r</supplied> aŋa</l>
                             <l>ešitsäŋ anam bir sözüm bar saŋa</l>
                         </lg>
                         <milestone unit="line" n="6" />
@@ -133,8 +133,7 @@
                         </lg>
                         <milestone unit="line" n="5" />
                         <lg type="couplet" n="18" xml:id="ONUk-002-005">
-                            <l>yüz kö<addSpan spanTo="#ONUk-add002" />r<anchor xml:id="ONUk-add002"
-                                    type="addSpan" />klük ärdi qïlïqï sïlïġ</l>
+                            <l>yüz kö<supplied reason="lost">r</supplied>klük ärdi qïlïqï sïlïġ</l>
                             <l>köŋüli mihirlig sözi ḫūb yïlïġ</l>
                         </lg>
                         <milestone unit="line" n="6" />
@@ -160,8 +159,7 @@
                         <milestone unit="line" n="10" />
                         <lg type="couplet" n="23" xml:id="ONUk-002-010">
                             <l>alur ǰüftigä kim meni sen tesäŋ</l>
-                            <l>säwär män seni ḫōš musulmān e<addSpan spanTo="#ONUk-add003" />r<anchor
-                                    xml:id="ONUk-add003" type="addSpan" />säŋ</l>
+                            <l>säwär män seni ḫōš musulmān e<supplied reason="lost">r</supplied>säŋ</l>
                         </lg>
                         <milestone unit="line" n="11" />
                         <lg type="couplet" n="24" xml:id="ONUk-002-011">
@@ -170,8 +168,7 @@
                         </lg>
                         <milestone unit="line" n="12" />
                         <lg type="couplet" n="25" xml:id="ONUk-002-012">
-                            <l>sälländü<addSpan spanTo="#ONUk-add004" />r<anchor
-                                    xml:id="ONUk-add004" type="addSpan" /> ḫātūn täk äwindä turur</l>
+                            <l>sälländü<supplied reason="lost">r</supplied> ḫātūn täk äwindä turur</l>
                             <l>oġuz kirsä čïqsa anï köp urur</l>
                         </lg>
                         <milestone unit="line" n="13" />
@@ -182,8 +179,7 @@
                         <milestone unit="page" n="2r" facs="ONUk.2r.jpg" />
                         <milestone unit="line" n="1" />
                         <lg type="couplet" n="27" xml:id="ONUk-003-001">
-                            <l>yana bir inisi bu kür ḫā<addSpan spanTo="#ONUk-add005" />n<anchor
-                                    xml:id="ONUk-add005" type="addSpan" /> qïzïn</l>
+                            <l>yana bir inisi bu kür ḫā<supplied reason="lost">n</supplied> qïzïn</l>
                             <l>ayttï oġuzġa qïl emdi közin</l>
                         </lg>
                         <milestone unit="line" n="2" />
@@ -366,8 +362,7 @@
                         </lg>
                         <milestone unit="line" n="11" />
                         <lg type="couplet" n="63" xml:id="ONUk-005-011">
-                            <l>ayur ošbu iškä nä-dü<addSpan spanTo="#ONUk-add006" />r<anchor
-                                    xml:id="ONUk-add006" type="addSpan" /> čāra-mïz</l>
+                            <l>ayur ošbu iškä nä-dü<supplied reason="lost">r</supplied> čāra-mïz</l>
                             <l>yaman yolġa kirmiš ǰigarpāra-mïz</l>
                         </lg>
                         <milestone unit="line" n="12" />
@@ -414,14 +409,12 @@
                         <milestone unit="line" n="7" />
                         <lg type="couplet" n="72" xml:id="ONUk-006-007">
                             <l>desä bolmas iš-dür oġuznuŋ iši</l>
-                            <l>bu iš-lä<addSpan spanTo="#ONUk-add007" />r<anchor
-                                    xml:id="ONUk-add007" type="addSpan" /> ičindä ölär köp kiši</l>
+                            <l>bu iš-lä<supplied reason="lost">r</supplied> ičindä ölär köp kiši</l>
                         </lg>
                         <milestone unit="line" n="8" />
                         <lg type="couplet" n="73" xml:id="ONUk-006-008">
                             <l>bu söz birlä barča čärig yïġdï-lar</l>
-                            <l>oġuznuŋ kelü<addSpan spanTo="#ONUk-add008" />r<anchor
-                                    xml:id="ONUk-add008" type="addSpan" /> yolïna čïqtï-lar</l>
+                            <l>oġuznuŋ kelü<supplied reason="lost">r</supplied> yolïna čïqtï-lar</l>
                         </lg>
                         <milestone unit="line" n="9" />
                         <lg type="couplet" n="74" xml:id="ONUk-006-009">
@@ -440,8 +433,7 @@
                         </lg>
                         <milestone unit="line" n="12" />
                         <lg type="couplet" n="77" xml:id="ONUk-006-012">
-                            <l>ḫāżir bol išiŋ<addSpan spanTo="#ONUk-add011" />ä<anchor
-                                    xml:id="ONUk-add011" type="addSpan" /> ziyān tägmäsün</l>
+                            <l>ḫāżir bol išiŋ<supplied reason="lost">ä</supplied> ziyān tägmäsün</l>
                             <l>qara ḫān barïb-tur seni yäŋmäsün</l>
                         </lg>
                         <milestone unit="line" n="13" />
@@ -482,8 +474,7 @@
                         </lg>
                         <milestone unit="line" n="7" />
                         <lg type="couplet" n="85" xml:id="ONUk-007-007">
-                            <l>bir oq zaḥm<addSpan spanTo="#ONUk-add012" />ï<anchor
-                                    xml:id="ONUk-add012" type="addSpan" /> birlä qara ḫān közni</l>
+                            <l>bir oq zaḥm<supplied reason="lost">ï</supplied> birlä qara ḫān közni</l>
                             <l>ǰahannam-qa bardï qalïb bu sözi</l>
                         </lg>
                         <milestone unit="line" n="8" />
@@ -493,8 +484,7 @@
                         </lg>
                         <milestone unit="line" n="9" />
                         <lg type="couplet" n="87" xml:id="ONUk-007-009">
-                            <l>murād berdi täŋr<addSpan spanTo="#ONUk-add013" />i<anchor
-                                    xml:id="ONUk-add013" type="addSpan" /> oġuzqa uluġ</l>
+                            <l>murād berdi täŋr<supplied reason="lost">i</supplied> oġuzqa uluġ</l>
                             <l>muŋa battï barča ulus el qamuġ</l>
                         </lg>
                         <milestone unit="line" n="10" />
@@ -505,8 +495,7 @@
                         <milestone unit="line" n="11" />
                         <lg type="couplet" n="89" xml:id="ONUk-007-011">
                             <l>ḫatāy qïrqïz el andïn turur</l>
-                            <l>kör iblīs bular<addSpan spanTo="#ONUk-add014" />ġa<anchor
-                                    xml:id="ONUk-add014" type="addSpan" /> bärib-tür ġurūr</l>
+                            <l>kör iblīs bular<supplied reason="lost">ġa</supplied> bärib-tür ġurūr</l>
                         </lg>
                         <milestone unit="line" n="12" />
                         <lg type="couplet" n="90" xml:id="ONUk-007-012">
@@ -521,8 +510,7 @@
                         <milestone unit="page" n="4v" facs="ONUk.4v.jpg" />
                         <milestone unit="line" n="1" />
                         <lg type="couplet" n="92" xml:id="ONUk-008-001">
-                            <l>kim ol birgä bolġan nökärlä<addSpan spanTo="#ONUk-add015" />r<anchor
-                                    xml:id="ONUk-add015" type="addSpan" />iŋä</l>
+                            <l>kim ol birgä bolġan nökärlä<supplied reason="lost">r</supplied>iŋä</l>
                             <l>bärib tašrīf artuq sökäl-läriŋä</l>
                         </lg>
                         <milestone unit="line" n="2" />
