@@ -79,65 +79,65 @@
                         <table rend="boxed" rows="6" cols="5">
                             <row>
                                 <cell><l>alīf: bir</l></cell>
-                                <cell>bā: eki</cell>
-                                <cell>tā: tört</cell>
-                                <cell>s̠ā: säkiz</cell>
-                                <cell>ǰīm: üč</cell>
+                                <cell><l>bā: eki</cell>
+                                <cell><l>tā: tört</cell>
+                                <cell><l>s̠ā: säkiz</cell>
+                                <cell><l>ǰīm: üč</cell>
                             </row>
                             <row>
-                                <cell>ḥa: säkiz</cell>
-                                <cell>ḫā: sāqïṭ</cell>
-                                <cell>dāl: tört</cell>
-                                <cell>ẕāl: tört</cell>
-                                <cell>rā: säkiz</cell>
+                                <cell><l>ḥa: säkiz</cell>
+                                <cell><l>ḫā: sāqïṭ</l></cell>
+                                <cell><l>dāl: tört</l></cell>
+                                <cell><l>ẕāl: tört</l></cell>
+                                <cell><l>rā: säkiz</l></cell>
                             </row>
                             <row>
-                                <cell>zā: yeti</cell>
-                                <cell>sīn: sāqïṭ</cell>
-                                <cell>šīn: sāqïṭ</cell>
-                                <cell>ṣād: altï</cell>
-                                <cell>żād: säkiz</cell>
+                                <cell><l>zā: yeti</l></cell>
+                                <cell><l>sīn: sāqïṭ</l></cell>
+                                <cell><l>šīn: sāqïṭ</l></cell>
+                                <cell><l>ṣād: altï</l></cell>
+                                <cell><l>żād: säkiz</l></cell>
                             </row>
                             <row>
-                                <cell>ṭā: toquz</cell>
-                                <cell>ẓā: sāqïṭ</cell>
-                                <cell>ʿayn: on</cell>
-                                <cell>ġayn: tört</cell>
-                                <cell>fā: säkiz</cell>
+                                <cell><l>ṭā: toquz</l></cell>
+                                <cell><l>ẓā: sāqïṭ</l></cell>
+                                <cell><l>ʿayn: on</l></cell>
+                                <cell><l>ġayn: tört</l></cell>
+                                <cell><l>fā: säkiz</l></cell>
                             </row>
                             <row>
-                                <cell>qāf: tört</cell>
-                                <cell>kāf: säkiz</cell>
-                                <cell>lām: altï</cell>
-                                <cell>mīm: tört</cell>
-                                <cell>nūn: eki</cell>
+                                <cell><l>qāf: tört</l></cell>
+                                <cell><l>kāf: säkiz</l></cell>
+                                <cell><l>lām: altï</l></cell>
+                                <cell><l>mīm: tört</l></cell>
+                                <cell><l>nūn: eki</l></cell>
                             </row>
                             <row>
-                                <cell>wāw: altï</cell>
-                                <cell>hā: bäš</cell>
-                                <cell>lām alīf: yeti</cell>
-                                <cell>yā: on</cell>
+                                <cell><l>wāw: altï</l></cell>
+                                <cell><l>hā: bäš</l></cell>
+                                <cell><l>lām alīf: yeti</l></cell>
+                                <cell><l>yā: on</l></cell>
                             </row>
                         </table>
                         <milestone unit="page" n="72v" />
                         <table rend="boxed" rows="3" cols="2">
                             <row>
-                                <cell>Alīf bir qalsa Ḥamal bolur wa ḥamal qoy bolur wa mizāǰï ot
-                                    bolur. Mülki Mirrīḫ turur.</cell>
-                                <cell>Wä eki qalsa S̠awr bolur wa s̠awr öküz bolur wa mizāǰï
-                                    topraq bolur. Mülki Zuhra bolur.</cell>
+                                <cell><l>Alīf bir qalsa Ḥamal bolur wa ḥamal qoy bolur wa mizāǰï ot
+                                    bolur.</l> <l>Mülki Mirrīḫ turur.</l></cell>
+                                <cell><l>Wä eki qalsa S̠awr bolur wa s̠awr öküz bolur wa mizāǰï
+                                    topraq bolur.</l> <l>Mülki Zuhra bolur.</l></cell>
                             </row>
                             <row>
-                                <cell>Wä üč qalsa J̌awzā bolur. J̌awzā qoz bolur wa mizāǰï yel
-                                    bolur wa mülki ʿUṭārid bolur.</cell>
-                                <cell>Wä ägär tört qalsa Saraṭān bolur wa saraṭān qïsqač bolur.
-                                    Ṭabīʿatï suf bolur. Mülki Qamar bolur.</cell>
+                                <cell><l>Wä üč qalsa J̌awzā bolur.</l> <l>J̌awzā qoz bolur wa mizāǰï yel
+                                    bolur wa mülki ʿUṭārid bolur.</l></cell>
+                                <cell><l>Wä ägär tört qalsa Saraṭān bolur wa saraṭān qïsqač bolur.</l>
+                                    <l>Ṭabīʿatï suf bolur.</l> <l>Mülki Qamar bolur.</l></cell>
                             </row>
                             <row>
-                                <cell>Wä ägär bäš qalsa Asad bolur wa asad arslan bolur wa ṭabīʿatï
-                                    ot bolur wa mülki Šams bolur.</cell>
-                                <cell>Wä ägär altï qalsa Sunbula bolur wa sunbula buġday bolur.
-                                    Ṭabīʿatï topraq bolur. Mülki ʿUṭārid bolur.</cell>
+                                <cell><l>Wä ägär bäš qalsa Asad bolur wa asad arslan bolur wa ṭabīʿatï
+                                    ot bolur wa mülki Šams bolur.</l></cell>
+                                <cell><l>Wä ägär altï qalsa Sunbula bolur wa sunbula buġday bolur.</l>
+                                    <l>Ṭabīʿatï topraq bolur.</l> <l>Mülki ʿUṭārid bolur.</l></cell>
                             </row>
                             </table>
                             <milestone unit="page" n="73r" />
