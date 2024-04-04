@@ -44,73 +44,124 @@
                 <div type="textpart" subtype="chapter">
                     <ab>
                         <title></title>
-                        <milestone unit="page" n="71v"/>
+                        <milestone unit="page" n="71v" />
                         <milestone unit="line" n="1" />
  <foreign xml:lang="ar" style="unicode-bidi: embed;">بسم الله الرحمن الرحيم</foreign>
-                        <milestone unit="line" n="2" />
+                        <milestone
+                            unit="line" n="2" />
  Kim ärsä ne kim ḥāǰat tiläsä bu kitāb ičindä tapïlur. Tandurust kiši
                         üčün
                         <milestone unit="line" n="3" />
- sökäl kiši üčün <addSpan spanTo="#K1057-001-add001" />dōst-luq üčün dušmān-lïq üčün<anchor
+ sökäl kiši üčün <addSpan
+                            spanTo="#K1057-001-add001" />dōst-luq üčün dušmān-lïq üčün<anchor
                             xml:id="K1057-001-add001" type="addSpan" /> ʿiyāl üčün ne
                         kim istäsä
-                        bu ma mu<supplied reason="lost">ǰ</supplied>āb<ref n="1" target="#K1057-fn1"
+                        bu ma mu<supplied reason="lost">ǰ</supplied>āb<ref n="1"
+                            target="#K1057-fn1"
                             type="noteAnchor" /> turur yaʿnī
                     <milestone unit="line" n="4" />
  sananmïš turur. Ammā bu kitāb hawāsïnda köp kim ärsälär halāk bolmïš
-                        <milestone unit="line" n="5" />
+                        <milestone
+                            unit="line" n="5" />
  turur. Ammā bunï köp kiši-lär bilmäs-lär, ägär munï tegmä bir
                         ṭïlsïm-larï birlä
                         <milestone unit="line" n="6" />
  yazdursa saġ bolġay. Ammā emdi aḥwāl-larïn aytalïŋ. Ägär bu kitāb-nï
-                        <milestone unit="line" n="7" />
+                        <milestone
+                            unit="line" n="7" />
  kim-kä kim ačar bolsa anasï atïn wa ol kiši atïn yazsun taqï ḥurūf-larïn
                         <milestone unit="line" n="8" />
  sanasun. Andïn on eki ṭarḥ qïlsun yaʿnī ketärsün. Baqsun, ol sananmïš
-                        <milestone unit="line" n="9" />
+                        <milestone
+                            unit="line" n="9" />
  nečä qalur anï körsün. Ol ḥisāb birlä tiläki bolġay inšā'a-llāhu taʿālā.
                         <milestone unit="page" n="72r" />
-                        <milestone unit="line" n="1" />
- alīf: bir, bā: eki, tā: tört, s̠ā: säkiz, ǰīm: üč, ḥa: säkiz, ḫā:
-                        sāqïṭ, dāl: tört, ẕāl: tört, rā: säkiz, zā: yeti, sīn: sāqïṭ, šīn:
-                        sāqïṭ, ṣād: altï, żād: säkiz, ṭā: toquz, ẓā: sāqïṭ, ʿayn: on, ġayn: tört,
-                        fā: säkiz, qāf: tört, kāf: säkiz, lām: altï, mīm: tört, nūn: eki, wāw: altï,
-                        hā: bäš, lām alīf: yeti, yā: on
-
+                        <table rend="boxed" rows="6" cols="5">
+                            <row>
+                                <cell>alīf: bir</cell>
+                                <cell>bā: eki</cell>
+                                <cell>tā: tört</cell>
+                                <cell>s̠ā: säkiz</cell>
+                                <cell>ǰīm: üč</cell>
+                            </row>
+                            <row>
+                                <cell>ḥa: säkiz</cell>
+                                <cell>ḫā: sāqïṭ</cell>
+                                <cell>dāl: tört</cell>
+                                <cell>ẕāl: tört</cell>
+                                <cell>rā: säkiz</cell>
+                            </row>
+                            <row>
+                                <cell>zā: yeti</cell>
+                                <cell>sīn: sāqïṭ</cell>
+                                <cell>šīn: sāqïṭ</cell>
+                                <cell>ṣād: altï</cell>
+                                <cell>żād: säkiz</cell>
+                            </row>
+                            <row>
+                                <cell>ṭā: toquz</cell>
+                                <cell>ẓā: sāqïṭ</cell>
+                                <cell>ʿayn: on</cell>
+                                <cell>ġayn: tört</cell>
+                                <cell>fā: säkiz</cell>
+                            </row>
+                            <row>
+                                <cell>qāf: tört</cell>
+                                <cell>kāf: säkiz</cell>
+                                <cell>lām: altï</cell>
+                                <cell>mīm: tört</cell>
+                                <cell>nūn: eki</cell>
+                            </row>
+                            <row>
+                                <cell>wāw: altï</cell>
+                                <cell>hā: bäš</cell>
+                                <cell>lām alīf: yeti</cell>
+                                <cell>yā: on</cell>
+                            </row>
+                        </table>
                         <milestone unit="page" n="72v" />
-
-                        <milestone unit="line" n="1" />
- Alīf bir qalsa Ḥamal bolur wa ḥamal qoy bolur wa mizāǰï ot bolur. Mülki
-                        Mirrīḫ turur.
-                        Wä eki qalsa S̠awr bolur wa s̠awr öküz bolur wa mizāǰï topraq bolur. Mülki
-                        Zuhra bolur.
-                        Wä üč qalsa J̌awzā bolur. J̌awzā qoz bolur wa mizāǰï yel bolur wa mülki
-                        ʿUṭārid bolur.
-                        Wä ägär tört qalsa Saraṭān bolur wa saraṭān qïsqač bolur. Ṭabīʿatï suf
-                        bolur. Mülki Qamar bolur.
-                        Wä ägär bäš qalsa Asad bolur wa asad arslan bolur wa ṭabīʿatï ot bolur wa
-                        mülki Šams bolur.
-                        Wä ägär altï qalsa Sunbula bolur wa sunbula buġday bolur. Ṭabīʿatï topraq
-                        bolur. Mülki ʿUṭārid bolur.
-
-                        <milestone unit="page" n="73r" />
-
-                        <milestone unit="line" n="1" />
- Wä ägär yeti qalsa Mīzān bolur wa mīzān tarāzū bolur. Ṭabīʿatï yel
-                        bolur. Mülki Zuhra bolur.
-                        Wä ägär säkiz qalsa ʿAqrab bolur wa ʿaqrab čïyan bolur. Ṭabīʿatï suf bolur.
-                        Mülki Mirrīḫ turur.
-                        Wä ägär toquz qalsa Qaws bolur wa qaws ya bolur. Ṭabīʿatï ot bolur. Mülki
-                        Muštarī bolur.
-                        Wä ägär on qalsa J̌idī bolur wa ǰidī taġ äčküsi bolur wa ṭabīʿatï topraq
-                        bolur wa mülki Zuḥal turur.
-                        Wä ägär on bir qalsa Dalw bolur wa dalw qowa bolur ammā ṭabīʿatï qasurġa
-                        yeli bolur. Mülki Zuḥal bolur.
-                        Wä ägär on eki qalsa Ḥūt bolur wa ḥūt balïq bolur wa ṭabīʿatï suf bolur.
-                        Mülki Muštarī bolur.
-
+                        <table rend="boxed" rows="3" cols="2">
+                            <row>
+                                <cell>Alīf bir qalsa Ḥamal bolur wa ḥamal qoy bolur wa mizāǰï ot
+                                    bolur. Mülki Mirrīḫ turur.</cell>
+                                <cell>Wä eki qalsa S̠awr bolur wa s̠awr öküz bolur wa mizāǰï
+                                    topraq bolur. Mülki Zuhra bolur.</cell>
+                            </row>
+                            <row>
+                                <cell>Wä üč qalsa J̌awzā bolur. J̌awzā qoz bolur wa mizāǰï yel
+                                    bolur wa mülki ʿUṭārid bolur.</cell>
+                                <cell>Wä ägär tört qalsa Saraṭān bolur wa saraṭān qïsqač bolur.
+                                    Ṭabīʿatï suf bolur. Mülki Qamar bolur.</cell>
+                            </row>
+                            <row>
+                                <cell>Wä ägär bäš qalsa Asad bolur wa asad arslan bolur wa ṭabīʿatï
+                                    ot bolur wa mülki Šams bolur.</cell>
+                                <cell>Wä ägär altï qalsa Sunbula bolur wa sunbula buġday bolur.
+                                    Ṭabīʿatï topraq bolur. Mülki ʿUṭārid bolur.</cell>
+                            </row>
+                            </table>
+                            <milestone unit="page" n="73r" />
+                            <table rend="boxed" rows="3" cols="2">
+                                <row>
+                                    <cell>Wä ägär yeti qalsa Mīzān bolur wa mīzān tarāzū bolur.
+                                    Ṭabīʿatï yel bolur. Mülki Zuhra bolur.</cell>
+                                    <cell>Wä ägär säkiz qalsa ʿAqrab bolur wa ʿaqrab čïyan bolur.
+                                    Ṭabīʿatï suf bolur. Mülki Mirrīḫ turur.</cell>
+                                </row>
+                                <row>
+                                    <cell>Wä ägär toquz qalsa Qaws bolur wa qaws ya bolur. Ṭabīʿatï
+                                    ot bolur. Mülki Muštarī bolur.</cell>
+                                    <cell>Wä ägär on qalsa J̌idī bolur wa ǰidī taġ äčküsi bolur wa
+                                    ṭabīʿatï topraq bolur wa mülki Zuḥal turur.</cell>
+                                </row>
+                                <row>
+                                    <cell>Wä ägär on bir qalsa Dalw bolur wa dalw qowa bolur ammā
+                                    ṭabīʿatï qasurġa yeli bolur. Mülki Zuḥal bolur.</cell>
+                                    <cell>Wä ägär on eki qalsa Ḥūt bolur wa ḥūt balïq bolur wa
+                                    ṭabīʿatï suf bolur. Mülki Muštarī bolur.</cell>
+                                </row>
+                            </table>
                         <milestone unit="page" n="73v" />
-
                         <milestone unit="line" n="1" />
  Ṭāliʿ al-Ḥamal: Qayu kim ärsäniŋ yulduzï Ḥamal bolsa awwalġï burǰ-da
                         <milestone unit="line" n="2" />
