@@ -43,38 +43,38 @@
             <div type="edition">
                 <div type="textpart" subtype="chapter">
                     <ab>
-                        <title></title>
+                    <title></title>
                         <milestone unit="page" n="71v" />
                         <milestone unit="line" n="1" />
- <foreign xml:lang="ar" style="unicode-bidi: embed;">بسم الله الرحمن الرحيم</foreign>
-                        <milestone
-                            unit="line" n="2" />
- Kim ärsä ne kim ḥāǰat tiläsä bu kitāb ičindä tapïlur. Tandurust kiši
-                        üčün
+                    <l><foreign xml:lang="ar" style="unicode-bidi: embed;">بسم الله الرحمن الرحيم</foreign></l>
+                        <milestone unit="line" n="2" />
+                    <l>Kim ärsä ne kim ḥāǰat tiläsä bu kitāb ičindä tapïlur.</l>
+                    <l>Tandurust kiši üčün
                         <milestone unit="line" n="3" />
- sökäl kiši üčün <addSpan
-                            spanTo="#K1057-001-add001" />dōst-luq üčün dušmān-lïq üčün<anchor
-                            xml:id="K1057-001-add001" type="addSpan" /> ʿiyāl üčün ne
-                        kim istäsä
-                        bu ma mu<supplied reason="lost">ǰ</supplied>āb<ref n="1"
-                            target="#K1057-fn1"
-                            type="noteAnchor" /> turur yaʿnī
-                    <milestone unit="line" n="4" />
- sananmïš turur. Ammā bu kitāb hawāsïnda köp kim ärsälär halāk bolmïš
-                        <milestone
-                            unit="line" n="5" />
- turur. Ammā bunï köp kiši-lär bilmäs-lär, ägär munï tegmä bir
-                        ṭïlsïm-larï birlä
+                        sökäl kiši üčün <addSpan spanTo="#K1057-001-add001" />dōst-luq üčün dušmān-lïq üčün<anchor
+                        xml:id="K1057-001-add001" type="addSpan" />
+                        ʿiyāl üčün ne kim istäsä bu ma mu<supplied reason="lost">ǰ</supplied>āb<ref n="1"
+                        target="#K1057-fn1" type="noteAnchor" />
+                        turur yaʿnī
+                        <milestone unit="line" n="4" />
+                        sananmïš turur.</l>
+                    <l>Ammā bu kitāb hawāsïnda köp kim ärsälär halāk bolmïš
+                        <milestone unit="line" n="5" />
+                        turur.</l>
+                    <l>Ammā bunï köp kiši-lär bilmäs-lär, ägär munï tegmä bir ṭïlsïm-larï birlä
                         <milestone unit="line" n="6" />
- yazdursa saġ bolġay. Ammā emdi aḥwāl-larïn aytalïŋ. Ägär bu kitāb-nï
-                        <milestone
-                            unit="line" n="7" />
- kim-kä kim ačar bolsa anasï atïn wa ol kiši atïn yazsun taqï ḥurūf-larïn
+                        yazdursa saġ bolġay.</l>
+                    <l>Ammā emdi aḥwāl-larïn aytalïŋ.</l>
+                    <l>Ägär bu kitāb-nï
+                        <milestone unit="line" n="7" />
+                        kim-kä kim ačar bolsa anasï atïn wa ol kiši atïn yazsun taqï ḥurūf-larïn
                         <milestone unit="line" n="8" />
- sanasun. Andïn on eki ṭarḥ qïlsun yaʿnī ketärsün. Baqsun, ol sananmïš
-                        <milestone
-                            unit="line" n="9" />
- nečä qalur anï körsün. Ol ḥisāb birlä tiläki bolġay inšā'a-llāhu taʿālā.
+                        sanasun.</l>
+                    <l>Andïn on eki ṭarḥ qïlsun yaʿnī ketärsün.</l>
+                        Baqsun, ol sananmïš
+                        <milestone unit="line" n="9" />
+                        nečä qalur anï körsün.
+                    <l>Ol ḥisāb birlä tiläki bolġay inšā'a-llāhu taʿālā.</l>
                         <milestone unit="page" n="72r" />
                         <table rend="boxed" rows="6" cols="5">
                             <row>
