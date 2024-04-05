@@ -8,19 +8,18 @@
         <title ana="#no"/>
         <author ana="#no"/>
         <respStmt>
-          <resp when="2015">Manuscript description by</resp>
+          <resp when="2024">Manuscript description by</resp>
           <name>Samet Onur</name>
         </respStmt>
         <respStmt>
-          <resp when="2020">Digital edition by</resp>
+          <resp when="2024">Digital edition by</resp>
           <name>Samet Onur</name>
         </respStmt>
       </titleStmt>
       <editionStmt>
         <edition>
           Onur, Samet 2024. ‘A digital edition of the Khwarezmian Turkic fortune-telling book K1057’, in László Károly and
-          Michał Németh (eds)
-          <emph>A database of Middle Turkic documents.</emph>
+          Michał Németh (eds) <emph>A database of Middle Turkic documents.</emph>
           Uppsala: Department of linguistics and philology. Accessed
           <date when-custom="Now-DayinMonth"/>
           <date when-custom="Now-MonthAbbr"/>
