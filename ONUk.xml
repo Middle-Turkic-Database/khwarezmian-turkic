@@ -103,8 +103,7 @@
               <handNote scope="sole" script="Taliq" />
             </handDesc>
             <scriptDesc>
-              <summary>Arabic</summary>
-              <scriptNote scope="sole">
+              <scriptNote scope="sole" script="Arabic">
                 <p>Arabic</p>
                 <p>Script type: Taliq</p>
                 <p>Vocalization: No vocalization</p>
