@@ -106,6 +106,7 @@
               <handNote medium="ink">Ink:
                 <term type="ink">black (red for titles)</term>
               </handNote>
+              <handNote scope="sole" script="Naskh" />
             </handDesc>
             <scriptDesc>
               <summary>Arabic</summary>

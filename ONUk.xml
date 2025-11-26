@@ -100,6 +100,7 @@
               <handNote medium="ink">Ink:
                 <term type="ink">black</term>
               </handNote>
+              <handNote scope="sole" script="Taliq" />
             </handDesc>
             <scriptDesc>
               <summary>Arabic</summary>
