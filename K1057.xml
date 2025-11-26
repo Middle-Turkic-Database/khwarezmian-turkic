@@ -106,10 +106,14 @@
               <handNote medium="ink">Ink:
                 <term type="ink">black (red for titles)</term>
               </handNote>
-              <handNote scope="sole" script="Naskh" />
             </handDesc>
             <scriptDesc>
-              <scriptNote scope="sole">Arabic (no vocalisation)</scriptNote>
+              <summary>Arabic</summary>
+              <scriptNote scope="sole">
+                <p>Arabic</p>
+                <p>Script type: Naskh</p>
+                <p>Vocalization: No vocalization</p>
+              </scriptNote>
             </scriptDesc>
             <bindingDesc>
               <binding contemporary="false">
