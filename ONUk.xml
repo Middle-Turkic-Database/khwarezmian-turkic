@@ -51,7 +51,7 @@
           </msIdentifier>
           <msContents>
             <summary>
-              An Islamized version of the Oguzname written in prose.
+              An Islamized version of the Oguzname written in verses.
             </summary>
             <msItem n="1">
               <locus>folios 1r-4v</locus>
@@ -143,7 +143,7 @@
         </keywords>
       </textClass>
       <abstract>
-        <p>An Islamized version of the Oguzname written in prose (couplets)</p>
+        <p>An Islamized version of the Oguzname written in verses (in couplets)</p>
       </abstract>
     </profileDesc>
   </teiHeader>
